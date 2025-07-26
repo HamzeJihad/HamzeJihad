@@ -45,15 +45,6 @@ Atuo como desenvolvedor mobile (**Flutter**), front-end e back-end (**APIs e mic
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzeJihad&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzeJihad&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📌 Projetos em Destaque
 
 - [🔧 ArquiteturaPadraoFlutter](https://github.com/HamzeJihad/ArquiteturaPadraoFlutter) — Estrutura modular baseada em Clean Architecture para projetos Flutter.
