@@ -4,10 +4,6 @@
   <strong>Desenvolvedor Fullstack</strong> | <strong>Flutter Specialist</strong> | <strong>Clean Architecture & Performance</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamzeJihad&label=Profile%20views&color=0e75b6&style=flat" alt="HamzeJihad" />
-</p>
-
 ---
 
 🚀 **Entrego soluções completas com foco em performance, experiência do usuário e evolução contínua.**  
