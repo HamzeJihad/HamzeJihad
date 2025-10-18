@@ -37,7 +37,19 @@ Atuo como desenvolvedor mobile (**Flutter**), front-end e back-end (**APIs e mic
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 #### Gerência de Estado e Injeção:
-`GetIt`, `Riverpod`, `Bloc`, `MobX`, `GetX`
+![Riverpod](https://img.shields.io/badge/Riverpod-40C4FF?style=flat&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-7B1FA2?style=flat&logo=flutter&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-9C27B0?style=flat&logo=flutter&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-EF5350?style=flat&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8E24AA?style=flat&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-1976D2?style=flat&logo=flutter&logoColor=white)
+![ValueNotifier](https://img.shields.io/badge/ValueNotifier-0288D1?style=flat&logo=flutter&logoColor=white)
+![ChangeNotifier](https://img.shields.io/badge/ChangeNotifier-03A9F4?style=flat&logo=flutter&logoColor=white)
+![GetIt](https://img.shields.io/badge/GetIt-00ACC1?style=flat&logo=flutter&logoColor=white)
+![Injectable](https://img.shields.io/badge/Injectable-26A69A?style=flat&logo=flutter&logoColor=white)
+![Flutter Modular](https://img.shields.io/badge/Flutter_Modular-009688?style=flat&logo=flutter&logoColor=white)
+![AutoRoute](https://img.shields.io/badge/AutoRoute-00796B?style=flat&logo=flutter&logoColor=white)
+
 
 ---
 
